@@ -1,0 +1,11 @@
+[34m[1mwandb[0m:
+[34m[1mwandb[0m: Plotting Classifier.
+[34m[1mwandb[0m: [33mWARNING[0m could not find any of attributes feature_importances_, feature_log_prob_, coef_ on classifier. Cannot plot feature importances.
+[34m[1mwandb[0m: Logged feature importances.
+[34m[1mwandb[0m: Logged confusion matrix.
+[34m[1mwandb[0m: Logged summary metrics.
+[34m[1mwandb[0m: Logged class proportions.
+[34m[1mwandb[0m: [33mWARNING[0m This function only supports binary classification at the moment and therefore expects labels to be binary. Skipping calibration curve.
+[34m[1mwandb[0m: Logged calibration curve.
+[34m[1mwandb[0m: Logged roc curve.
+[34m[1mwandb[0m: Logged precision-recall curve.

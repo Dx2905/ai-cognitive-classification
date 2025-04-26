@@ -1,0 +1,16 @@
+{"time":"2025-04-25T23:46:16.261856-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/gaurav/Documents/ai-cognitive-classification/wandb/run-20250425_234616-e7oquzim/logs/debug-core.log"}
+{"time":"2025-04-25T23:46:16.581346-04:00","level":"INFO","msg":"created new stream","id":"e7oquzim"}
+{"time":"2025-04-25T23:46:16.581422-04:00","level":"INFO","msg":"stream: started","id":"e7oquzim"}
+{"time":"2025-04-25T23:46:16.581552-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"e7oquzim"}
+{"time":"2025-04-25T23:46:16.581564-04:00","level":"INFO","msg":"sender: started","stream_id":"e7oquzim"}
+{"time":"2025-04-25T23:46:16.581585-04:00","level":"INFO","msg":"handler: started","stream_id":"e7oquzim"}
+{"time":"2025-04-25T23:46:16.723013-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-25T23:46:23.503682-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-25T23:46:23.504426-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-25T23:46:24.521572-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-e7oquzim-precision_recall_table","runtime_seconds":1.034288209}],"total_operations":1}}
+{"time":"2025-04-25T23:46:24.586999-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-25T23:46:24.849869-04:00","level":"INFO","msg":"stream: closing","id":"e7oquzim"}
+{"time":"2025-04-25T23:46:24.849945-04:00","level":"INFO","msg":"handler: closed","stream_id":"e7oquzim"}
+{"time":"2025-04-25T23:46:24.850206-04:00","level":"INFO","msg":"sender: closed","stream_id":"e7oquzim"}
+{"time":"2025-04-25T23:46:24.850104-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"e7oquzim"}
+{"time":"2025-04-25T23:46:24.85076-04:00","level":"INFO","msg":"stream: closed","id":"e7oquzim"}

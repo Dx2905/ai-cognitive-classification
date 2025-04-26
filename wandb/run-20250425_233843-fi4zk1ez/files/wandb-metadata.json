@@ -1,0 +1,19 @@
+{
+  "os":  "macOS-10.16-x86_64-i386-64bit",
+  "python":  "CPython 3.9.18",
+  "startedAt":  "2025-04-26T03:38:43.133174Z",
+  "args":  [
+    "--model",
+    "svm"
+  ],
+  "program":  "/Users/gaurav/Documents/ai-cognitive-classification/src/train.py",
+  "codePath":  "Documents/ai-cognitive-classification/src/train.py",
+  "git":  {
+    "remote":  "https://github.khoury.northeastern.edu/gaurav29/CS5700_gaurav29.git"
+  },
+  "email":  "lnu.gau@northeastern.edu",
+  "root":  "/Users/gaurav/Documents/ai-cognitive-classification",
+  "host":  "Gauravs-MacBook-Pro.local",
+  "executable":  "/Users/gaurav/Documents/ai-cognitive-classification/venv/bin/python",
+  "codePathLocal":  "src/train.py"
+}

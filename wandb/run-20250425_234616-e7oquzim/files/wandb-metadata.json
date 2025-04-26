@@ -1,0 +1,47 @@
+{
+  "os":  "macOS-10.16-x86_64-i386-64bit",
+  "python":  "CPython 3.9.18",
+  "startedAt":  "2025-04-26T03:46:16.254606Z",
+  "args":  [
+    "--model",
+    "svm"
+  ],
+  "program":  "/Users/gaurav/Documents/ai-cognitive-classification/src/train.py",
+  "codePath":  "Documents/ai-cognitive-classification/src/train.py",
+  "git":  {
+    "remote":  "https://github.khoury.northeastern.edu/gaurav29/CS5700_gaurav29.git"
+  },
+  "email":  "lnu.gau@northeastern.edu",
+  "root":  "/Users/gaurav/Documents/ai-cognitive-classification",
+  "host":  "Gauravs-MacBook-Pro.local",
+  "executable":  "/Users/gaurav/Documents/ai-cognitive-classification/venv/bin/python",
+  "codePathLocal":  "src/train.py",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "354736234496"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "494384795648",
+      "used":  "354736234496"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Unknown",
+    "ecpuCores":  2,
+    "pcpuCores":  6,
+    "gpuCores":  14,
+    "memoryGb":  16,
+    "swapTotalBytes":  "11811160064",
+    "ramTotalBytes":  "17179869184"
+  }
+}

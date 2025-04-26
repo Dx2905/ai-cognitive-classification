@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/gaurav/Documents/ai-cognitive-classification/src/train.py", line 83, in <module>
+    wandb.sklearn.plot_classifier(model, X_train_vec, X_test_vec, y_train, y_test, y_pred)
+TypeError: classifier() missing 2 required positional arguments: 'y_probas' and 'labels'
