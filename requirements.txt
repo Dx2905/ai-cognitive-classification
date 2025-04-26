@@ -1,0 +1,32 @@
+# Core
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.13.1
+joblib==1.4.2
+openpyxl==3.1.5
+
+# Model Explainability
+shap==0.47.2
+
+# FastAPI Backend
+fastapi==0.115.12
+uvicorn==0.34.2
+
+# Streamlit Frontend
+streamlit==1.44.1
+requests==2.32.3
+
+# Experiment Tracking
+wandb==0.19.9
+
+# DVC (Data Version Control)
+dvc==3.50.2
+
+# Visualization
+matplotlib==3.9.4
+seaborn==0.13.2
+
+# Text Processing
+nltk==3.9.1
+regex==2024.11.6
